@@ -17,6 +17,9 @@ Jump out:
 
 ## Installation (written by ChatGPT)
 
+<details>
+<summary>For Google Chrome</summary>
+<p>
 Here's how to install and activate the JakarSwitch extension from a zip file:
 
 1. First, download the JakarSwitch extension zip file from a trusted source, such as the Jakarto Github.
@@ -31,6 +34,27 @@ Here's how to install and activate the JakarSwitch extension from a zip file:
 10. The next time you visit Google StreetView or Jakartowns, the extension icon displayed in your toolbar will allow you to easily switch between the two sites.
 
 It is important to note that installing an extension from a zip file can pose security risks, as it does not go through the validation and approval process of the Chrome Web Store. Therefore, it is important to download the zip file from a trusted source and verify that the extension is safe before installing it.
+</p>
+</details>
+
+<details>
+<summary>For Mozilla Firefox</summary>
+<p>
+Here's how to install and activate the JakarSwitch extension from a zip file:
+
+1. First, download the JakarSwitch extension zip file from a trusted source, such as the Jakarto Github.
+2. Once the zip file is downloaded, extract it on your computer by right-clicking on it and selecting "Extract All".
+3. Open Firefox and go to the following webpage: [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
+4. Click on the "Load Temporary Add-on" button.
+5. In the file selection window that opens, navigate to the folder where you extracted the JakarSwitch extension files and select the "manifest.json" file.
+Once you've selected the manifest file, click "Open" to load the extension into Firefox.
+6. The JakarSwitch extension is now installed and should be active.
+7. The next time you visit Google StreetView or Jakartowns, the extension icon displayed in your toolbar will allow you to easily switch between the two sites.
+
+It is important to note that installing an extension from a zip file can pose security risks, as it does not go through the validation and approval process of the Firefox Add-ons store. Therefore, it is important to download the zip file from a trusted source and verify that the extension is safe before installing it.
+</p>
+</details>
+
 
 
 ## Authors
