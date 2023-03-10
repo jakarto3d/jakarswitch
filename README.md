@@ -5,22 +5,22 @@ JakarSwitch is an extension for Google Chrome that makes it easy to teleport bet
 ## Demo
 ![demo](doc/demo_jakarswitch.gif)
 
-## Installation (tuto de ChatGPT)
+## Installation (written by ChatGPT)
 
-Voici comment installer et activer l'extension JakarSwitch à partir d'un fichier zip :
+Here's how to install and activate the JakarSwitch extension from a zip file:
 
-1. Tout d'abord, téléchargez le fichier zip de l'extension JakarSwitch à partir d'une source de confiance, comme le Github de Jakarto.
-2. Une fois le fichier zip téléchargé, extrayez-le sur votre ordinateur en faisant un clic droit dessus et en sélectionnant "Extraire tout".
-3. Ouvrez Google Chrome et allez dans le menu "Paramètres" (représenté par trois points verticaux en haut à droite de l'écran).
-4. Dans le menu déroulant, sélectionnez "Plus d'outils", puis "Extensions".
-5. Activez le "mode développeur" en cliquant sur le bouton correspondant en haut à droite de l'écran.
-6. Cliquez sur le bouton "Charger l'extension non empaquetée" qui apparaît en haut de l'écran.
-7. Dans la fenêtre de sélection de fichiers qui s'ouvre, naviguez jusqu'au dossier où vous avez extrait les fichiers de l'extension JakarSwitch et sélectionnez-le.
-8. Une fois que vous avez sélectionné le dossier, cliquez sur "Sélectionner un dossier" pour charger l'extension dans Chrome.
-9. L'extension JakarSwitch est maintenant installée, mais elle peut ne pas être activée automatiquement. Pour l'activer, faites glisser l'interrupteur à côté de "JakarSwitch" vers la droite pour activer l'extension.
-10. La prochaine fois que vous visiterez Google Maps ou Jakartowns, l'icône de l'extension affichée dans votre barre d'outils vous permettra de basculer facilement entre les deux sites.
+1. First, download the JakarSwitch extension zip file from a trusted source, such as the Jakarto Github.
+2. Once the zip file is downloaded, extract it on your computer by right-clicking on it and selecting "Extract All".
+3. Open Google Chrome and go to the "Settings" menu (represented by three vertical dots in the top right corner of the screen).
+4. In the dropdown menu, select "More tools," then "Extensions".
+5. Enable "developer mode" by clicking the corresponding button in the top right corner of the screen.
+6. Click on the "Load unpacked extension" button that appears at the top of the screen.
+7. In the file selection window that opens, navigate to the folder where you extracted the JakarSwitch extension files and select it.
+8. Once you've selected the folder, click "Select folder" to load the extension into Chrome.
+9. The JakarSwitch extension is now installed, but may not be automatically activated. To activate it, slide the switch next to "JakarSwitch" to the right to activate the extension.
+10. The next time you visit Google Maps or Jakartowns, the extension icon displayed in your toolbar will allow you to easily switch between the two sites.
 
-Il est important de noter que l'installation d'une extension à partir d'un fichier zip peut présenter des risques de sécurité, car elle ne passe pas par le processus de validation et d'approbation du Chrome Web Store. Il est donc important de télécharger le fichier zip à partir d'une source de confiance et de vérifier que l'extension est sûre avant de l'installer.
+It is important to note that installing an extension from a zip file can pose security risks, as it does not go through the validation and approval process of the Chrome Web Store. Therefore, it is important to download the zip file from a trusted source and verify that the extension is safe before installing it.
 
 
 ## Authors
