@@ -8,9 +8,11 @@ document.addEventListener('DOMContentLoaded', function () {
       // jump in (StreetView, Maps, Asset viewer) --> Jakartowns
       // Extraction de la latitude et de la longitude de l'URL
       const google_localization_encoded_regex = /@([-0-9.]+),([-0-9.]+)/;
+      const bing_localization_encoded_regex = /cp=([-0-9.]+)%7E([-0-9.]+)/;
       const xyz_tiles_regex = /#[-0-9.]+\/([-0-9.]+)\/([-0-9.]+)/;
 
       let jump_in_match = url.match(new RegExp(google_localization_encoded_regex.source))
+      jump_in_match = jump_in_match || url.match(new RegExp(bing_localization_encoded_regex.source))
       jump_in_match = jump_in_match || url.match(new RegExp(xyz_tiles_regex.source))
       if (jump_in_match) {
          var latitude = jump_in_match[1];
