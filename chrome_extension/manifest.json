@@ -1,12 +1,12 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "JakarSwitch",
     "description": "JakarSwitch is an extension for Google Chrome that makes it easy to teleport between Jakartowns and Google Maps. Using this extension, you can quickly navigate between the two maps to discover places and points of interest.",
     "version": "1.0.0",
     "permissions": [
         "tabs"
     ],
-    "browser_action": {
+    "action": {
         "default_icon": "icons8-map-marker-48.png",
         "default_popup": "popup.html"
     }
