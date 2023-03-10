@@ -1,6 +1,6 @@
 # JakarSwitch
 
-JakarSwitch is an extension for Google Chrome that makes it easy to teleport between Jakartowns and Google Maps. Using this extension, you can quickly navigate between the two maps to discover places and points of interest.
+JakarSwitch is an extension for Google Chrome that makes it easy to teleport between Jakartowns and Google StreetView. Using this extension, you can quickly navigate between the two maps to discover places and points of interest.
 
 ## Demo
 ![demo](doc/demo_jakarswitch.gif)
@@ -18,7 +18,7 @@ Here's how to install and activate the JakarSwitch extension from a zip file:
 7. In the file selection window that opens, navigate to the folder where you extracted the JakarSwitch extension files and select it.
 8. Once you've selected the folder, click "Select folder" to load the extension into Chrome.
 9. The JakarSwitch extension is now installed, but may not be automatically activated. To activate it, slide the switch next to "JakarSwitch" to the right to activate the extension.
-10. The next time you visit Google Maps or Jakartowns, the extension icon displayed in your toolbar will allow you to easily switch between the two sites.
+10. The next time you visit Google StreetView or Jakartowns, the extension icon displayed in your toolbar will allow you to easily switch between the two sites.
 
 It is important to note that installing an extension from a zip file can pose security risks, as it does not go through the validation and approval process of the Chrome Web Store. Therefore, it is important to download the zip file from a trusted source and verify that the extension is safe before installing it.
 

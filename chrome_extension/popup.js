@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
          var longitude = jktowns_localization_encoded_match[2];
 
          // Aller sur Jakartowns avec les coordonnées récupérées
-         var newUrl = `https://www.google.com/maps/@${latitude},${longitude},18z`;
+         var newUrl = `http://maps.google.com/?cbll=${latitude},${longitude}&layer=c`;
 
          // Ouverture de la nouvelle URL dans un nouvel onglet
          chrome.tabs.create({ url: newUrl });
