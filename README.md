@@ -22,7 +22,7 @@ Jump out:
 <p>
 Here's how to install and activate the JakarSwitch extension from a zip file:
 
-1. First, download the JakarSwitch extension zip file from a trusted source, such as the Jakarto Github.
+1. First, [download the JakarSwitch extension zip file](https://github.com/jakarto3d/jakarswitch/releases/latest) from a trusted source, such as the Jakarto Github.
 2. Once the zip file is downloaded, extract it on your computer by right-clicking on it and selecting "Extract All".
 3. Open Google Chrome and go to the "Settings" menu (represented by three vertical dots in the top right corner of the screen).
 4. In the dropdown menu, select "More tools," then "Extensions".
@@ -42,7 +42,7 @@ It is important to note that installing an extension from a zip file can pose se
 <p>
 Here's how to install and activate the JakarSwitch extension from a zip file:
 
-1. First, download the JakarSwitch extension zip file from a trusted source, such as the Jakarto Github.
+1. First, [download the JakarSwitch extension zip file](https://github.com/jakarto3d/jakarswitch/releases/latest) from a trusted source, such as the Jakarto Github.
 2. Once the zip file is downloaded, extract it on your computer by right-clicking on it and selecting "Extract All".
 3. Open Firefox and go to the following webpage: [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
 4. Click on the "Load Temporary Add-on" button.
