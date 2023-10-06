@@ -15,9 +15,9 @@ Jump out:
 ## Demo
 ![demo](doc/demo_jakarswitch.gif)
 
-## Installation (written by ChatGPT)
+## Installation
 
-<details>
+<details open>
 <summary>For Google Chrome</summary>
 <p>
 Here's how to install and activate the JakarSwitch extension from a zip file:
@@ -37,7 +37,7 @@ It is important to note that installing an extension from a zip file can pose se
 </p>
 </details>
 
-<details>
+<details open>
 <summary>For Mozilla Firefox</summary>
 <p>
 Here's how to install and activate the JakarSwitch extension from a zip file:
@@ -55,15 +55,6 @@ It is important to note that installing an extension from a zip file can pose se
 </p>
 </details>
 
-
-
-## Authors
-- ideas came from Loïc Messal
-- draft implementation directly from ChatGPT (really awesome!)
-- some enhancements by Loïc Messal to make it work bidirectionnal
-
 ## Etymology
-
-🤣
 
 ![chatgpt](doc/etymology.png)
